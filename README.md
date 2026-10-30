@@ -4,9 +4,14 @@ Mod non officiel pour **Machine Party** (Steam). Ajoute 21 mini-jeux, réactive 
 finale, un saut, des provocations, des fantômes, des pannes d'usine, des titres de fin, 3 accessoires et le
 changement des touches, et **L'Atelier** : crée tes propres cartes (21 pièces) et partage-les sur le **Store** en ligne (menu principal).
 
+## Telecharger
+
+**[TELECHARGER MACHINE PARTY+ (mpplus-12)](https://github.com/ASXXX0/machine-party-plus/raw/main/MachinePartyPlus.zip)**  
+Toutes les versions : [Releases](../../releases).
+
 ## Installer
 
-1. Télécharge le zip de la [dernière version](../../releases/latest).
+1. Télécharge le zip ci-dessus (`MachinePartyPlus.zip`).
 2. Ferme Machine Party, décompresse le zip et double-clique sur `Installer.bat`.
 3. Lance le jeu depuis Steam. En bas à droite du menu, la version doit commencer par `mpplus-`.
 
