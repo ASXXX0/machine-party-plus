@@ -1,6 +1,6 @@
 {
- "version": "mpplus-11",
- "zip_url": "https://github.com/ASXXX0/machine-party-plus/releases/download/mpplus-11/MachinePartyPlus-mpplus-11.zip",
- "sha256": "ab37e2adfb6f3e49f9eb1165ec28495ec751428697b28e17f08a4ae982efcfd4",
- "notes": "Nouveau : L'Atelier (cree tes cartes avec 21 pieces) et le Store en ligne (menu principal) pour publier et jouer les cartes des autres. Replay au ralenti du meilleur moment. Nouvelle animation de saut."
+ "version": "mpplus-12",
+ "zip_url": "https://github.com/ASXXX0/machine-party-plus/releases/download/mpplus-12/MachinePartyPlus-mpplus-12.zip",
+ "sha256": "faa6feba04d1f62bdf279175bb4b6c9e8cc7cd2d448fbcd2d2f340e4666c00c3",
+ "notes": "Correction : les boutons Atelier et Store reapparaissent bien en revenant au menu d'accueil."
 }
