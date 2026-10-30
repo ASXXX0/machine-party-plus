@@ -1,6 +1,6 @@
 {
- "version": "mpplus-12",
- "zip_url": "https://github.com/ASXXX0/machine-party-plus/releases/download/mpplus-12/MachinePartyPlus-mpplus-12.zip",
- "sha256": "faa6feba04d1f62bdf279175bb4b6c9e8cc7cd2d448fbcd2d2f340e4666c00c3",
- "notes": "Correction : les boutons Atelier et Store reapparaissent bien en revenant au menu d'accueil."
+ "version": "mpplus-13",
+ "zip_url": "https://github.com/ASXXX0/machine-party-plus/releases/download/mpplus-13/MachinePartyPlus-mpplus-13.zip",
+ "sha256": "8c3aecc7ad3f53249f96d498dc335691447fcab179deda5905e0cfc8179fb045",
+ "notes": "Le mod devient Machine Party Overtime. 3 nouveaux mini-jeux : Cable sous tension, Dalles electriques, En vedette."
 }

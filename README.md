@@ -1,12 +1,12 @@
-# Machine Party+
+# Machine Party Overtime
 
-Mod non officiel pour **Machine Party** (Steam). Ajoute 21 mini-jeux, réactive 3 mini-jeux coupés, et ajoute une
+Mod non officiel pour **Machine Party** (Steam). Ajoute 24 mini-jeux, réactive 3 mini-jeux coupés, et ajoute une
 finale, un saut, des provocations, des fantômes, des pannes d'usine, des titres de fin, 3 accessoires et le
 changement des touches, et **L'Atelier** : crée tes propres cartes (21 pièces) et partage-les sur le **Store** en ligne (menu principal).
 
 ## Telecharger
 
-**[TELECHARGER MACHINE PARTY+ (mpplus-12)](https://github.com/ASXXX0/machine-party-plus/raw/main/MachinePartyPlus.zip)**  
+**[TELECHARGER MACHINE PARTY OVERTIME (mpplus-13)](https://github.com/ASXXX0/machine-party-plus/raw/main/MachinePartyPlus.zip)**  
 Toutes les versions : [Releases](../../releases).
 
 ## Installer
